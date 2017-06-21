@@ -1,5 +1,8 @@
-# intro-machine-learning:
-Introduction to machine learning at Rithm School
+# Machine Learning Practice
+
+## intro-machine-learning: Rithm School intro
+Introduction to machine learning through different resources.
+I will record my journey to learning ML here. 
 
 ## History of Machine Learning:
 min-max algorithm
